@@ -5,4 +5,10 @@
 *.zip          # falls du ZIPs mit Samples etc. hast
 *.flac
 *.ogg
-*.aiff
+*.aiff*.wav
+*.mp3
+*.m4a
+*.flac
+*.asd
+*.zip
+*/.DS_Store
