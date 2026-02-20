@@ -1,0 +1,8 @@
+# Audio- und große Binärdateien ignorieren
+*.wav
+*.mp3
+*.m4a
+*.zip          # falls du ZIPs mit Samples etc. hast
+*.flac
+*.ogg
+*.aiff
