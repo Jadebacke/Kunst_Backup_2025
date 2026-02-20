@@ -1,0 +1,25 @@
+- Track zurückbauen auf Ursprung (Vgl. Export-Datei) - check
+- Ausruhen und zu Hause sein. - check
+- Utilities
+- Diese Mapping nutzen
+- Harmonie/ Melodie Effekt runterladen
+- Melodie Part evtl. einleiten
+- Breaks anpassen?
+- Den Vogel aus der Hobbit einfügen?
+Hüllkurven und Tonlagen aneinander anschmiegen bzw. so "kantig" zueinander setzen/ legen, dass was bei raus kommt, das die Harmonie verspielt.
+- Hallfahne der Vocals als Perc nutzen?
+
+Aus Audiodatei/ Recorder:
+
+- Intro mit Filter ca. 700Hz
+- Vocalchor im Intro stark effektieren: wie Spucken. reverse einfädeln mit pan Rhythmus. 
+duplizieren, reverse, parallel, 
+
+komplette spur der aufnahme nutzen, Verbindungen stricken, transpose, ggf. auf midi spur slicen, mit ggf geige unterlegen oder sax. melodie slicen ab min. 1 mit viel stereo und wenig raum unterstützen, Chor versetzt parallel laufen lassen für mehr scgwung und hallphasen gefiltert etc. ton besser raus drücken.
+
+genau die tonspitzen treffen die interessant sind auch wenn es leise ist. nicht zu viel im einheitsbrei verschwimmen. ggf. eq8 nach dem midband mit spitzen diese dann automatisieren für einen interessanten verlaufen
+
+frage: wie kann man nur die tonspitzen aufnehmen und alles unten weg cutten? gate? compressor? -> Vermutung: EQ8 Low Cut + High Cut und dann ganz schmale hohe Spitze nach links und rechts schieben für einzelnen hohen Ton. Diesen dann mit Panorama im Raum verteilen.
+
+Erosion auf High Kick Layer
+Hall Intro filtern

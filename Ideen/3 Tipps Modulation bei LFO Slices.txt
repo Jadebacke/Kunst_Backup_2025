@@ -1,0 +1,45 @@
+Drei präzise Tipps zur Modulation eines LFO-Slices mit z. B. Valhalla Room
+✅ Tipp 1 – Nutze Early Size / Late Size für „räumliche Wellenbewegung“
+
+Valhalla Room hat zwei extrem modulativ nutzbare Parameter:
+
+Early Size → verändert die räumliche Dichte (klingt wie „Zerreißen“)
+
+Late Size → verändert die Halltiefe (klingt wie „Aufblähen“)
+
+Automation dieser beiden führt zu einem organischen, schimmernden LFO-Wobble.
+
+Empfehlung:
+
+Early Size zwischen 10–30 % modulieren
+
+Late Size zwischen 60–85 % modulieren
+
+Damit bleiben LFO-Transienten klar, aber die Raumtiefe bewegt sich.
+
+✅ Tipp 2 – Low Cut/High Cut automatisieren, um den LFO „atmen“ zu lassen
+
+Der Raum wird lebendiger, wenn du ihn tonfarbig moduliert:
+
+Low Cut: 200–800 Hz modulieren → LFO klingt mal dünner, mal fetter
+
+High Cut: 4–10 kHz modulieren → schimmernde Öffnung/Schließung
+
+Das erzeugt eine Art „Puls“ im Raum, ohne die Lautstärke anzufassen.
+
+✅ Tipp 3 – Den Mix nicht durchgängig hochfahren → stattdessen kurz dynamisch „pumpen“
+
+Wenn Mix dauerhaft hoch ist, ersäuft dein Slice im Hall.
+Besser:
+
+50–70 % Mix normal
+
+Automations-Peaks auf 90–100 % an rhythmischen Momenten (z. B. dort, wo der LFO seine Attack-Spitze hat oder eine markante Bewegung)
+
+Das erzeugt:
+
+kontrollierten Wahnsinn
+
+rhythmischen Raum
+
+charaktervolle Modulation ohne Matsch

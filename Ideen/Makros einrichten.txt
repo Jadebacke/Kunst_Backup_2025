@@ -1,0 +1,11 @@
+Zusätzlich EQ-Mikrobewegung (0.5–1 dB) mit sehr langsamer Automation (30–60 Sekunden)
+
+-
+
+Setup
+
+Room A: Ping-Pong Delay 1/8, leicht gedämpft
+
+Room B: Ping-Pong Delay 3/16 oder 5/16, sehr low wet (5–10%)
+
+Beide Räume parallel – NICHT seriell

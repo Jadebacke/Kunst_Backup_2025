@@ -1,0 +1,9 @@
+Oszillatoren = machen Gleichstrom zu Wechselstrom. "Es entsteht Bewegung im Strom." (eigene Interpretation aufgrund des gelesenen). Erzeugt: Periodische elektrische Schwingungen; ich erkläre es mir: wiederkehrende Bewegung in Form von eckigen oder runden Wellen. (Sinus vs. "Rechteck")
+
+Ein Oszillator ist kein Signal, sondern ein elektronisches Bauteil oder eine Softwarekomponente, das eine elektrische Schwingung mit einer bestimmten Schwingungsform und einer einstellbaren Frequenz erzeugt.
+ Die erzeugte Schwingungsform wird oft als Wellenform bezeichnet, da das englische Wort "waveform" üblicherweise mit "Wellenform" übersetzt wird.
+
+Ein LFO, abgeleitet von „Low Frequency Oscillator“, ist ein Oszillator, der mit einer Frequenz schwingt, die unterhalb des für Menschen hörbaren Bereichs liegt, also typischerweise unter 20 Hz.
+ Obwohl er einem normalen Oszillator ähnelt, dient er nicht zur direkten Klangerzeugung hörbarer Töne, sondern wird zur Modulation verschiedener Klangparameter eingesetzt.
+ Häufig moduliert ein LFO Parameter wie die Tonhöhe (für Vibrato), die Filterfrequenz (für Wobble-Bass), die Lautstärke (für Tremolo) oder die Pulsbreite eines Oszillators.
+ Die Modulation erfolgt durch ein periodisches, sich wiederholendes Signal, das im Gegensatz zu Hüllkurven kontinuierlich und dauerhaft wirkt.
